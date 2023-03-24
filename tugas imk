@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T08:53:47.891Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="KeEHzlGrvS0_A66YhFEN" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T08:56:34.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="zTKU4C4Ul-piuhqv-Wvc" version="21.1.0" type="github">
   <diagram name="Page-1" id="3tLhgoPOG5EyefEEY6IO">
     <mxGraphModel dx="3476" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -301,30 +301,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="P_oENOLKueMSaqT_sxET-34" value="Input DATA" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-1540" y="680" width="160" height="236" as="geometry">
-            <mxRectangle x="-2060" y="700" width="60" height="30" as="alternateBounds" />
+          <mxGeometry x="-1540" y="680" width="160" height="230" as="geometry">
+            <mxRectangle x="-1540" y="680" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="P_oENOLKueMSaqT_sxET-35" value="Kesenian dan Kebudayaan" style="text;strokeColor=none;fillColor=default;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="P_oENOLKueMSaqT_sxET-34">
-          <mxGeometry y="26" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P_oENOLKueMSaqT_sxET-36" value="Penalaran" style="text;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="P_oENOLKueMSaqT_sxET-34">
-          <mxGeometry y="56" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P_oENOLKueMSaqT_sxET-37" value="Budaya" style="text;strokeColor=none;fillColor=default;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="P_oENOLKueMSaqT_sxET-34">
-          <mxGeometry y="86" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P_oENOLKueMSaqT_sxET-38" value="Kepemimpinan" style="text;strokeColor=none;fillColor=default;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="P_oENOLKueMSaqT_sxET-34">
-          <mxGeometry y="116" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P_oENOLKueMSaqT_sxET-39" value="Olahraga" style="text;strokeColor=none;fillColor=default;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="P_oENOLKueMSaqT_sxET-34">
-          <mxGeometry y="146" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P_oENOLKueMSaqT_sxET-40" value="Kewirausahaan" style="text;strokeColor=none;fillColor=default;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="P_oENOLKueMSaqT_sxET-34">
-          <mxGeometry y="176" width="160" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="P_oENOLKueMSaqT_sxET-41" value="Kerohanian" style="text;strokeColor=none;fillColor=default;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="P_oENOLKueMSaqT_sxET-34">
-          <mxGeometry y="206" width="160" height="30" as="geometry" />
+        <mxCell id="P_oENOLKueMSaqT_sxET-35" value="&lt;div&gt;Tahun Ajar&lt;/div&gt;&lt;div&gt;Rentang Tanggal&lt;/div&gt;&lt;div&gt;Kategori Kegiatan&lt;/div&gt;&lt;div&gt;Pilar Kemahasiswaan&lt;/div&gt;&lt;div&gt;Jenis Kegiatan&lt;/div&gt;&lt;div&gt;Jenis Tingkat&lt;/div&gt;&lt;div&gt;Jenis Pengajuan&lt;/div&gt;&lt;div&gt;Partisipan&lt;/div&gt;&lt;div&gt;Nama Kegiatan (Bahasa Indonesia)&lt;/div&gt;&lt;div&gt;Nama Kegiatan (Bahasa Inggris)&lt;/div&gt;&lt;div&gt;Deskripsi&lt;/div&gt;" style="text;strokeColor=default;fillColor=default;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;" vertex="1" parent="P_oENOLKueMSaqT_sxET-34">
+          <mxGeometry y="26" width="160" height="204" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
