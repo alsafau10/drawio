@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-24T09:18:52.710Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="4x2wyF6GaxxPCCc2uhqN" version="21.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-24T09:23:40.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="eLfz55w7X88rsr-EZb7Q" version="21.1.0" type="github">
   <diagram name="Page-1" id="3tLhgoPOG5EyefEEY6IO">
     <mxGraphModel dx="3227" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,6 +194,15 @@
         </mxCell>
         <mxCell id="P_oENOLKueMSaqT_sxET-63" value="An Account may/can input SAT (TAK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-1380" y="450" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P_oENOLKueMSaqT_sxET-64" value="An Account may/can visit Homepage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1725" y="460" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P_oENOLKueMSaqT_sxET-65" value="An Account Only can see One total Point SAT(TAK)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2290" y="590" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P_oENOLKueMSaqT_sxET-66" value="An Account may/can see list of approved&amp;nbsp;&lt;br&gt;SAT" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-1890" y="560" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
